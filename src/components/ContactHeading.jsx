@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 const ContactHeading = () => {
   return (
     <div className="relative text-center py-12">
       {/* Large outlined text */}
-      <h1 className="text-transparent text-[5rem] sm:text-[6rem] md:text-[8rem] lg:text-[10rem] leading-none font-extrabold tracking-wider stroke-text uppercase font-poppins">
+      <h1 className="text-transparent text-[3rem] sm:text-[6rem] md:text-[8rem] lg:text-[10rem] leading-none font-extrabold tracking-wider stroke-text uppercase font-poppins">
         Contact
       </h1>
 
